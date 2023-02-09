@@ -66302,5 +66302,16 @@
       }
     },
     "id": "76155acd-a4f8-4193-bdc6-8bf3fda61489"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "backgroundColor": "#FFF9F3"
+        }
+      }
+    },
+    "id": "51fdae6e-bf69-41f7-baaf-a284b4fab52c"
   }
 ]
