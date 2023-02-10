@@ -646,7 +646,7 @@ right: 140px;
 border-radius: 40px;
 border-style: solid;
 border-color: #d9d4d4;
-width: 100%;
+width: 50%;
 }
 .p-Home.Flex154 {
 display: flex;
@@ -751,6 +751,7 @@ padding-top: 150px;
 align-items: center;
 flex-direction: column;
 padding-bottom: 150px;
+background-color: #FFF9F3;
 }
 .p-Home.Flex168 {
 display: flex;
